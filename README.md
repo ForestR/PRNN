@@ -78,8 +78,8 @@ Our architecture replicates this behavior by:
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/ForestR/PRNN-Power_Rangers_of_Neural_Network.git
-cd PRNN-Power_Rangers_of_Neural_Network
+git clone https://github.com/ForestR/PRNN.git
+cd PRNN
 ```
 Install dependencies:
 ```bash
@@ -124,7 +124,7 @@ If you used PRNN in your research, we would appreciate it if you could cite it. 
   title = {Power Rangers of Neural Network: Harnessing Multicellularity Forces},
   month = {December},
   year = {2024},
-  url = {https://github.com/ForestR/PRNN-Power_Rangers_of_Neural_Network}
+  url = {https://github.com/ForestR/PRNN}
 }
 ```
 
