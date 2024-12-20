@@ -114,3 +114,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 Inspired by biological multicellularity and swarm intelligence. Special thanks to contributors and collaborators for their valuable insights.
+
+## Citation
+If you used PRNN in your research, we would appreciate it if you could cite it. We are still working on a technical report, and before it's public, you could consider citing:
+
+```bibtex
+@software{PRNN,
+  author = {PRNN Authors},
+  title = {Power Rangers of Neural Network: Harnessing Multicellularity Forces},
+  month = {December},
+  year = {2024},
+  url = {https://github.com/ForestR/PRNN-Power_Rangers_of_Neural_Network}
+}
+```
+
